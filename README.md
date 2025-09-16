@@ -1,4 +1,4 @@
-# 🎓 Education Analytics Dashboard (Power BI )
+# 🎓 Ecommerce Analytics Dashboard (Power BI )
 
 This project analyzes Ecommerce sales using Power BI.  
 The goal is to provide insights for Businesses through interactive dashboards.
